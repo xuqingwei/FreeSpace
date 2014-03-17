@@ -1,0 +1,10 @@
+.maincanvas{
+
+	background-color: white;
+	/*margin-left: 10px;*/
+	border: solid 1px #ccc;
+	cursor: default;
+}
+.height800{
+	height:800px;
+}
